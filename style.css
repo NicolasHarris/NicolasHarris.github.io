@@ -1,0 +1,20 @@
+div{
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: 500px;
+}
+img{
+    margin: auto;
+    width: 500px;
+    height: 500px;
+}
+span.a{
+    text-decoration-line: underline;
+}
+span.b{
+background-color: orange;
+}
+span.c{
+    color: red;
+}
